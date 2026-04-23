@@ -86,8 +86,7 @@ parking-management-system/
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/shrutijadhav2809/parking-management-system.git
-cd parking-management-system
+
 ```
 
 ---
@@ -177,7 +176,7 @@ http://localhost:8080
 
 ## 👩‍💻 Author
 
-Shruti Jadhav
+Baliram Hallale
 
 ---
 
